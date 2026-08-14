@@ -1,0 +1,4 @@
+DbSqlEditor:LastDefaultSchema=
+OPT_LOCAL_INFILE=1
+lastConnected=1771921546
+serverVersion=8.0.40

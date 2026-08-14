@@ -1,0 +1,9 @@
+Статья 1
+тег_1
+research_paper_1
+Статья 2
+тег_2
+research_paper_2
+Статья 3
+тег_1, тег_2
+research_paper_3
